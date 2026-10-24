@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**kyle20240808-sys/kyle20240808-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Kyle 👋
 
-Here are some ideas to get you started:
+I'm interested in web design, visual styles, and creative interactions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use Claude Code and other AI tools to bring ideas to life, from early prototypes to finished websites. I also experiment with custom workflows and Skills to make the process more consistent.
+
+## What I'm into
+
+- UI & Web Design
+- Creative Web Interactions
+- AI-assisted Development
+- Custom AI Workflows
+
+## Find me
+
+- [Cake Profile](https://www.cake.me/me/kyle-chang-31768e)
